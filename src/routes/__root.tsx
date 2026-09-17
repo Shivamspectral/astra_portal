@@ -89,6 +89,10 @@ export const Route =
           content: "width=device-width, initial-scale=1",
         },
         {
+          name: "google-site-verification",
+          content: "cGiON7lZeqClplWwKXVjngrG41hezSodPxaXg_I01P0",
+        },
+        {
           title: "ASTRA — Digital Technology & Development Team",
         },
         {
